@@ -1,3 +1,4 @@
 Contenido del documento 2
 Cambios en documento2 en main
 Nuevos cambios en documento2 en mirama
+Cambios diferentes en documento2 en mirama_nueva
