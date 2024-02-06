@@ -1,1 +1,2 @@
 Contenido del documento 2
+Cambios en documento2 en main
