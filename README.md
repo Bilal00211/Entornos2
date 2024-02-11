@@ -84,7 +84,7 @@ git add documento2.txt
 git commit -m "Cambios diferentes en documento2 en mirama_nueva"
 git checkout main
 git merge mirama_nueva
-# Resolver conflicto manualmente
+ Resolver conflicto manualmente
 git add documento2.txt
 git merge --continue
 Crea y cambia a una nueva rama llamada mirama_nueva, realiza cambios en documento2.txt, fusiona con main y resuelve conflictos.
