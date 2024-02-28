@@ -1,5 +1,5 @@
 # Práctica Evaluable
-- git config --global user.email "tu@email.com"
+git config --global user.email "tu@email.com"
 git config --global user.name "Tu Nombre"
 Estos comandos configuran la información del usuario que realizará cambios en el repositorio. Debes sustituir "tu@email.com" con tu dirección de correo electrónico y "Tu Nombre" con tu nombre.
 
